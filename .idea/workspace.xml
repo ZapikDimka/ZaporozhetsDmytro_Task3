@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9a75ff-ac29-4f12-a600-f1d616f31755" name="Changes" comment="Done Task">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-0a7b527a91acd243/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-0a7b527a91acd243/test-lib-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-0a7b527a91acd243/test-lib-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-1064a604dc20996e/bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-1064a604dc20996e/bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-1064a604dc20996e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-16e06b2e18443564/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-16e06b2e18443564/test-bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-16e06b2e18443564/test-bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-30b9d2cd2496a9db/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-30b9d2cd2496a9db/lib-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-30b9d2cd2496a9db/lib-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-349c94d8449010d7/bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-349c94d8449010d7/bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-349c94d8449010d7/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-5a708a28c17b9406/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-5a708a28c17b9406/test-bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-5a708a28c17b9406/test-bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/dep-bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-9209b4818cfa64e8/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-9209b4818cfa64e8/test-bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-9209b4818cfa64e8/test-bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-ef2e57e5f60926b7/bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-ef2e57e5f60926b7/bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets-ef2e57e5f60926b7/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-d74671439312592a/bin-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-d74671439312592a/bin-my_parser_kma_Zaporozhets_Dmytro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-d74671439312592a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-de3234735e3bce03/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-de3234735e3bce03/test-lib-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-de3234735e3bce03/test-lib-my_parser_kma_Zaporozhets_Dmytro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-e7557b75b901bc42/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-e7557b75b901bc42/lib-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-e7557b75b901bc42/lib-my_parser_kma_Zaporozhets_Dmytro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-f61afa97d63e0304/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-f61afa97d63e0304/test-bin-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-f61afa97d63e0304/test-bin-my_parser_kma_Zaporozhets_Dmytro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-1bcab9a393bf228f/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-1bcab9a393bf228f/lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-1bcab9a393bf228f/lib-peg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-7fe48a6c661aa89d/dep-lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-7fe48a6c661aa89d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-7fe48a6c661aa89d/lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-7fe48a6c661aa89d/lib-peg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/dep-lib-peg_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/lib-peg_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/lib-peg_macros.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-36cdbc49066f0e9d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-36cdbc49066f0e9d/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-36cdbc49066f0e9d/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/dep-lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/dep-lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-e3af21e14a37c2bc/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-e3af21e14a37c2bc/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/dep-lib-proc_macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/lib-proc_macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/lib-proc_macro2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/quote-475e6db5c1557a5a/dep-lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/quote-475e6db5c1557a5a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/quote-475e6db5c1557a5a/lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/quote-475e6db5c1557a5a/lib-quote.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/dep-lib-unicode_ident" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/lib-unicode_ident" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/lib-unicode_ident.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-b7df9ea019263987/build-script-build.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-e3af21e14a37c2bc/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-e3af21e14a37c2bc/out/proc_macro2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-e3af21e14a37c2bc/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-e3af21e14a37c2bc/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/build/proc-macro2-e3af21e14a37c2bc/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libpeg-7fe48a6c661aa89d.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libpeg-7fe48a6c661aa89d.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libpeg_runtime-829715e885aa0a30.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libpeg_runtime-829715e885aa0a30.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libpeg_runtime-d3962009be6b7746.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libpeg_runtime-d3962009be6b7746.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libproc_macro2-ec12a974c5a8c8e2.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libproc_macro2-ec12a974c5a8c8e2.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libquote-475e6db5c1557a5a.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libquote-475e6db5c1557a5a.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libunicode_ident-6471048e310c06c3.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libunicode_ident-6471048e310c06c3.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/my_parser_kma_Zaporozhets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/my_parser_kma_Zaporozhets.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/my_parser_kma_Zaporozhets.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg-7fe48a6c661aa89d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_macros-5751bd063bbc34d0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_macros-5751bd063bbc34d0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_macros-5751bd063bbc34d0.dll.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_macros-5751bd063bbc34d0.dll.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_macros-5751bd063bbc34d0.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_runtime-829715e885aa0a30.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/peg_runtime-d3962009be6b7746.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/proc_macro2-ec12a974c5a8c8e2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/quote-475e6db5c1557a5a.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/unicode_ident-6471048e310c06c3.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/0p41vjrjkit7qxsbdmai95vku.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/0pzkv3vbpfmmjcsc16lrgesfd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/11f3yj8h8f6z10ttw6gghchiw.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/11o1g1jvti59g3ryok3evp92a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/1d3b4cnczdukq3vn4z2ux84sg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/1ibc3uu8rfdd1w1250re30aox.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/1kts2ydh2hjpxi6smhxok86bl.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/1rqrz5uo4gdo5y6xllghwoi1z.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/2nnamuatxdyc5x9zywpafpqbd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/2t2n8nqbcguyo8ev44ch6qiz2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/2tj8krp4yqfxgx6ur9zjwe0ir.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/2xheu9exoi4o3pym8aqmhppng.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/41535pcphmvs63ijcid07teeg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/474fpz9q7uubgq4jjr2i1ac68.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/4n5ocn18yvr4qss8yekkkhy3b.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/4pkhnrm49jhwchmsdidvu275z.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/4vy37x5b4n6cafruumbijg03h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/4w704hpfhphoylvz6afiukydx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/52e796aoh54b6ymps1s91yfap.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/5e4o09eswjv01tupufean5u55.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/5e81wgcfvlchi3u7l7v83vf5b.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/5g4q34pnq8bly0lba89709lce.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/5m9bav975w6hpar4gcxbcvdfh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/5ps8uv1pip48ycrovbdbwkfqz.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/69j5jcw4q8sg93utnnskjlb4t.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/6berhms0houneibenfpnjseea.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/74xh5veqn4dr1ewos9gpgwqbp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/762nzgljej5obybn2l46bhj91.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/7k4o91jbtiks13ru557n6ztqn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/88e92rzvrdc4wxvweurfdol6u.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/8accebh1cm12e06ht7dtkgzqq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/8gez99qq0qtkwkftsqbokff70.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/9eudnxwffi6uxbq5jrdx18j6v.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/9wn446vo94fdzpu7s33bsa0hy.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/9ydi3n5093dlz58r4m1odxj06.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/ar4evoriqwroygcysopdji5o6.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/axqx091z2o4gob0iqso833w80.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/blooiefh019xarf9hs47riu8h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/cdiqnl6sbirp4r8rybwtfx5oo.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/cecehbugeo0yyr6fir1xvrk7y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/cgd9esmwnectpmwwoztf48gx2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/cr0q7yod2ahhk7h403nm81jf9.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/d00xz528cb9pq5nz0wvvuo4tc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/d2vavs6deew0rpxhun8luzce8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/dsm22rfprd9qwnhewfgn4p3rb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/dyleoexe5wa47xquorwdqernd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/e3alik98p8xjcl50xm16airi0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/e5jb6y00xlmdpoqlz2kl1jb6p.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/e8f41a9gjhf6hteibt3zwd5kg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/eb5w5ancge6d9yygpvk31wp6n.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/eer8v0betfbg17gmm6aku95v2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/egbgxkx47kxdm6jcgp06w6nso.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/eqhhj1httctqfwh3daii3thds.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/esmvgnualpu13e9ct0egd9xlf.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/ew9jp5dxyy95ti82p3uefk0xg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa-6rnmozyzm71wq1xmv2na74c75/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-05llu3n3akeay/s-h0xnbhzrv9-1r90isa.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-3ow1cqutkds4k/s-h0xn9q5dte-0j7trt3-working/dep-graph.part.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/my_parser_kma_Zaporozhets-3ow1cqutkds4k/s-h0xn9q5dte-0j7trt3.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/my_parser_kma_Zaporozhets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/my_parser_kma_Zaporozhets.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/my_parser_kma_Zaporozhets.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0.crate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/.cargo_vcs_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/Cargo.toml.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/assets/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/assets/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/bin-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/dep-bin-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-7798e74ab980a504/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-f329a0fdd3c1a9fb/dep-lib-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-f329a0fdd3c1a9fb/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-f329a0fdd3c1a9fb/lib-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-f329a0fdd3c1a9fb/lib-my_parser_kma_Zaporozhets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/my_parser_kma_Zaporozhets-f329a0fdd3c1a9fb/output-lib-my_parser_kma_Zaporozhets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-7fe48a6c661aa89d/dep-lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-7fe48a6c661aa89d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-7fe48a6c661aa89d/lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-7fe48a6c661aa89d/lib-peg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/dep-lib-peg_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/lib-peg_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/lib-peg_macros.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/dep-lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/dep-lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-e3af21e14a37c2bc/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-e3af21e14a37c2bc/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/dep-lib-proc_macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/lib-proc_macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/lib-proc_macro2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/quote-475e6db5c1557a5a/dep-lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/quote-475e6db5c1557a5a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/quote-475e6db5c1557a5a/lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/quote-475e6db5c1557a5a/lib-quote.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/dep-lib-unicode_ident" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/lib-unicode_ident" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/lib-unicode_ident.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-b7df9ea019263987/build-script-build.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-e3af21e14a37c2bc/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-e3af21e14a37c2bc/out/proc_macro2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-e3af21e14a37c2bc/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-e3af21e14a37c2bc/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/build/proc-macro2-e3af21e14a37c2bc/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libmy_parser_kma_Zaporozhets-f329a0fdd3c1a9fb.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libmy_parser_kma_Zaporozhets-f329a0fdd3c1a9fb.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libpeg-7fe48a6c661aa89d.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libpeg-7fe48a6c661aa89d.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libpeg_runtime-829715e885aa0a30.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libpeg_runtime-829715e885aa0a30.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libpeg_runtime-d3962009be6b7746.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libpeg_runtime-d3962009be6b7746.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libproc_macro2-ec12a974c5a8c8e2.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libproc_macro2-ec12a974c5a8c8e2.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libquote-475e6db5c1557a5a.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libquote-475e6db5c1557a5a.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libunicode_ident-6471048e310c06c3.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/libunicode_ident-6471048e310c06c3.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/my_parser_kma_Zaporozhets-f329a0fdd3c1a9fb.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/my_parser_kma_Zaporozhets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/my_parser_kma_Zaporozhets.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/my_parser_kma_Zaporozhets.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg-7fe48a6c661aa89d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_macros-5751bd063bbc34d0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_macros-5751bd063bbc34d0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_macros-5751bd063bbc34d0.dll.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_macros-5751bd063bbc34d0.dll.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_macros-5751bd063bbc34d0.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_runtime-829715e885aa0a30.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/peg_runtime-d3962009be6b7746.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/proc_macro2-ec12a974c5a8c8e2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/quote-475e6db5c1557a5a.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/deps/unicode_ident-6471048e310c06c3.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/0gns2srqlzacshtogkxixd3ol.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/1hsimcyr4xf4e2lx06v2l85lt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/1kf2w0vp7t13yakok5n43vqbj.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/1pignx7f6ffppg1wgsg2a1djh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/2cuq57ycky4uqwip75a2jkbn3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/3hjzx5mshjkv2yy70inf616z8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/3mf6s0nsu5yj05rl2raqajjv6.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/5tq347egq2aap5refa52ucu8i.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/5v3zuq5zqexl28enywz6zrlkq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/60vyhjluo4dcyk61zinv3a7mt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/63idq9gxh73flg4yc4nyq33op.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/6n5whlo9fv2drpahay7v5iae3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/6osppwcz11v357f3ri5vtb0um.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/6vvdnrjhl9tmvo71iq5lhr8rp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/6yuln5p7q3x7oj8hajp3xqr8n.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/74yu51mvm4umpkvkum8y2tt67.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/7jl3ob2xw2dm3a88wq1wckztm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/7lzcpz8rywktgv00gbx8pil3f.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/7ngq5pgxqp3g8v6orqwrcm8rx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/7o16p9mrr7fiw1mtod5rf44t2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/8gd9153ivb8n9jxzmd3q0rldp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/8zdtd4igyh30cyay1hk5i49e1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/9mjywuzsrcbakdbixi3l7jdps.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/9rqibph8tdhha7ghq6jmtgefu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/a11pokrxvscbxextuyxl3g5zm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/a2fxj2piutxgzmzqaty32tmqg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/a7ijrv9exo516tqo3bcss3ndf.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/aeolic82jyq5ir6bzaoozgxgb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/bfdnsgl95fw12rvbe22d02kea.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/bflsh31jtz5nr76hq2bvz7dpx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/bq6wundvd26e4apht8qhqv2om.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/bsyg7p8n2klg4y1h3xf7hdlq7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/c46unwkortlkza06u118fgyd4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/cudopbas6ngxlzgyj0ebg5mmk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/d40w1m444enog4yc89l7uq5s9.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/e2c4g6wo5y3vmzu6mjfleatds.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/ep3xeioes3ietx6woxkc1m6ml.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/f0dbh2n5zmlph1as2vprs49mt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef-e42hy34gii2pc6dvtg7s5fiq4/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-27ngtz4fx4vc7/s-h0xotyoehy-1qm7hef.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/0diertwr1eb6t6z6aazl51fvq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/0sewa8fyv44me0ow2l67pokt5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/1b03mi0krkjqkvx2pxutd3u15.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/1ec4v5s355x8ldb35j83o0o9o.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/1s3ygurohe9m9vueufmlipaf0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/20q2di6bkojzqbolb0b3mjmvm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/28ijpwwidkcboiax5b5unzc1p.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/2k2tnmnhr15akk59v6hc3oyey.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/2rq1xl22a9f3ys7nqupwcqp8y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/333954r1l9rxo28tzuvzv0e8n.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/3dkj2xvlqvcxhkb35u1vxukor.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/4at75hz86xsrwujhrj639cpv5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/5av271to91xa0oh95flallaga.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/5llhxlzsqs25j6r06rvz4cv1z.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/5nq2xuokv7hjuzemynlzt1pgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/5shh7wbe1a52yjvvo8sn8xe3z.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/75peu93spajyhsrqs5bj935a5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/7dtl4b0ssmceirgdpngxxr3a5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/7zlc95wfdttw4xlr7n0kqpj6p.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/8bil9c8du37der4nbkhuihoyd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/8bpzpbhfp5fysqy4caia6l1o6.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/8x1aqzolikko3tpja5kg2i2ww.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/abz3swkbmfd6nedmvlkh4lzps.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/afqk2vsdef3z4f8k74ls4k31w.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/br61yzdz8fj44vhj5sr3meorv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/cbk20itmo3ugkfdfofxwv6zme.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/ct54giyccb9viv5riu3xltn6a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/cuey51d2s9zmqvjm4a4yomz7r.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/d1s00vgkfu6grx387716922a6.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/dj3ol4biylhgr5j2wnzn078jc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/dqnpoeihnodt4padr1seqdrr2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/e25l8xsrge00c8ntqhgj1dutc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/ezjnn69xcamsorsj6qzbtyz8j.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z-1wuro27jsvm0ab7tjf9gtgzwt/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/incremental/my_parser_kma_Zaporozhets-37zkyds9tfibx/s-h0xotyv17w-1hizt5z.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/libmy_parser_kma_Zaporozhets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/libmy_parser_kma_Zaporozhets.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/my_parser_kma_Zaporozhets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/my_parser_kma_Zaporozhets.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets-0.1.0/target/debug/my_parser_kma_Zaporozhets.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1.crate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/.cargo_vcs_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/Cargo.toml.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/assets/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/assets/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-3a4ae1bfb8abb401/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-3a4ae1bfb8abb401/output-bin-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5/dep-lib-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5/lib-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5/lib-my_parser_kma_Zaporozhets_Dmytro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/my_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5/output-lib-my_parser_kma_Zaporozhets_Dmytro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-7fe48a6c661aa89d/dep-lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-7fe48a6c661aa89d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-7fe48a6c661aa89d/lib-peg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-7fe48a6c661aa89d/lib-peg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/dep-lib-peg_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/lib-peg_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-macros-5751bd063bbc34d0/lib-peg_macros.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/dep-lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-829715e885aa0a30/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/dep-lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/lib-peg_runtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/peg-runtime-d3962009be6b7746/lib-peg_runtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-b7df9ea019263987/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-e3af21e14a37c2bc/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-e3af21e14a37c2bc/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/dep-lib-proc_macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/lib-proc_macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/proc-macro2-ec12a974c5a8c8e2/lib-proc_macro2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/quote-475e6db5c1557a5a/dep-lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/quote-475e6db5c1557a5a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/quote-475e6db5c1557a5a/lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/quote-475e6db5c1557a5a/lib-quote.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/dep-lib-unicode_ident" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/lib-unicode_ident" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/.fingerprint/unicode-ident-6471048e310c06c3/lib-unicode_ident.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-b7df9ea019263987/build-script-build.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build-b7df9ea019263987.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-b7df9ea019263987/build_script_build.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-e3af21e14a37c2bc/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-e3af21e14a37c2bc/out/proc_macro2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-e3af21e14a37c2bc/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-e3af21e14a37c2bc/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/build/proc-macro2-e3af21e14a37c2bc/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libmy_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libmy_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libpeg-7fe48a6c661aa89d.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libpeg-7fe48a6c661aa89d.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libpeg_runtime-829715e885aa0a30.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libpeg_runtime-829715e885aa0a30.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libpeg_runtime-d3962009be6b7746.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libpeg_runtime-d3962009be6b7746.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libproc_macro2-ec12a974c5a8c8e2.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libproc_macro2-ec12a974c5a8c8e2.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libquote-475e6db5c1557a5a.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libquote-475e6db5c1557a5a.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libunicode_ident-6471048e310c06c3.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/libunicode_ident-6471048e310c06c3.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/my_parser_kma_Zaporozhets_Dmytro-ee832215e2b8fee5.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/my_parser_kma_Zaporozhets_Dmytro.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg-7fe48a6c661aa89d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_macros-5751bd063bbc34d0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_macros-5751bd063bbc34d0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_macros-5751bd063bbc34d0.dll.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_macros-5751bd063bbc34d0.dll.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_macros-5751bd063bbc34d0.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_runtime-829715e885aa0a30.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/peg_runtime-d3962009be6b7746.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/proc_macro2-ec12a974c5a8c8e2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/quote-475e6db5c1557a5a.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/deps/unicode_ident-6471048e310c06c3.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-39yr3g0ceb3rt/s-h0xoute5r4-0pyafll-working/dep-graph.part.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-39yr3g0ceb3rt/s-h0xoute5r4-0pyafll.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/00l96an8re48bwi9fv7nuyx0g.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/08khy3k1is11knzzlv7gytq7v.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/0cx6yshcbmnehwfdjqnxhxv62.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/0qav1uasjb7gnre5lp0eyqu94.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/0qzgfhmdq26u7ivvap60d1fpq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/1lnex43w7pg3u7vtcqcfztpp0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/1y9kioqsomsp2v361pq137w86.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/2090o76kln7eimpaw6uwvdisc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/2c8bf9sgsc583vgx8n7y1lstb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/31m2zakfhyfwk1cykz1qq01cu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/31yuhyvdvye6y1kutjx9ugigq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/4e1gqsanl0mzbaurzphkc5uix.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/4gepj1oium5eftirt8psqjxup.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/4gsrcw0zbr9u92pu94sf7pycp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/4o6h7thtiy1xge2vpr73kd9c3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/5ns0g0r36wocrtw6ug7yms5so.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/6xzw1ie2gf6884mmx8jv9wk0m.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/6yz836gzhhdxj4qnqjerj4hn2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/76e2ndape47y7m943b4bcu5tq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/7duvlshqviutf2me7l7vy0zd6.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/7oy1r7ixh1zqz3gwm8a1zg5s4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/7tbeumnlvl4ni9n8fp2jxd55g.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/918yn9sm06s966e03snr28vz5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/9hu4d8o0us74j8n7bdnpd7x7q.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/9sclf9qtfw6rqk3u6kjpu04lq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/b5z9f8ufvh0htw6qaxkmohmyv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/b6my516zr8l7jmvv3scl6fxo8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/bt89iovcis4l84160hd7jtou0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/bx880fdvkfkedb2n30nh14cin.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/c77eqw8w427tpv8fmooh6mk9c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/cb1ewuwakqsghr6a84xcz7101.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/dfkxxgvz08zt84phwrn8mco75.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/diiynntc0e81r9m65rlcpfelg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/dksqgjrbx8z3sy86ubdit03fx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/dsyrnbia35x30bv94l0foa42h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/e58e420r4uyj7xqbsg4e8j6r0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/e7bxkce5qfeo699jjxnb5adv8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/el2sl9u5cj9xxjzppqlp2vr9d.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn-a84a5svef7zwjwikjo3dtj75o/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/incremental/my_parser_kma_Zaporozhets_Dmytro-3vvi6ids19hpy/s-h0xout5f6o-120j9mn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/package/my_parser_kma_Zaporozhets_Dmytro-0.1.1/target/debug/libmy_parser_kma_Zaporozhets_Dmytro.rlib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_parser_kma_Zaporozhets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ZapikDimka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ZapikDimka/ZaporozhetsDmytro_Task3",
+    "accountId": "59260308-2aa1-48a7-bb47-fcce3c3c79be"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bsdvez37" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2nYhPmGZAGEPPIRjuKCkNYPLSCH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cargo.Run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/dazap/RustroverProjects/my_parser_kma_Zaporozhets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dazap\RustroverProjects\my_parser_kma_Zaporozhets\assets" />
+      <recent name="C:\Users\dazap\RustroverProjects\my_parser_kma_Zaporozhets\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package my_parser_kma_Zaporozhets --bin my_parser_kma_Zaporozhets" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9a75ff-ac29-4f12-a600-f1d616f31755" name="Changes" comment="" />
+      <created>1729155894202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729155894202</updated>
+      <workItem from="1729155898485" duration="3652000" />
+    </task>
+    <task id="LOCAL-00001" summary="Done Task">
+      <option name="closed" value="true" />
+      <created>1729157813485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729157813485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done Task">
+      <option name="closed" value="true" />
+      <created>1729159019691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729159019691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Task" />
+  </component>
+</project>
